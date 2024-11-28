@@ -1,0 +1,121 @@
+
+
+.nav-item {
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 150;
+    
+   
+}
+.row1{
+    color:#FFB30D
+}
+.bg-dark-x{
+    background-color:#DEE1E6
+}
+.form-control{
+    min-height: 3.125rem;
+    line-height:initial;
+
+}
+
+.row{
+    font-size: 18px;
+}
+.card-title{
+    font-size: 25px;
+}
+.exampleCheck1{
+    color:#012B33 
+}
+.tcard-img-overlay{
+    font-size: 30px;
+}
+.tallerdemotos{
+    font: size 60px;
+}
+.iconos{
+width: 40px;
+
+}
+.img-logo{
+    width: 180px;
+}
+.logo2{
+    width: 280px;
+}
+.coments{
+    background-image: url(../Recursos/Imagenes/wangs_61.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 390vh;
+    background-attachment: fixed;
+    
+
+}
+.coments__img{
+   width: 150px;
+   height: 150px;
+   position:relative;
+   top: -30px;
+   object-fit:cover;
+   border-radius: 50%;
+   box-shadow: 7px 7px 7px rgba(0 0 0/0.5);
+   border: 3px ridge #fff ;
+   font-size: 50px;
+  
+}
+.texto1{
+
+   position:relative;
+   top: 170px;
+   
+}
+.texto2{
+
+    position:relative;
+   top: 300px;
+   color: black;
+   
+}
+.visita2{
+    width: 200px;
+    height: 200px;
+    position:relative;
+    left: 100px;
+    top: 13px;
+    object-fit:cover;
+    border-radius: 50%;
+    box-shadow: 7px 7px 7px rgba(0 0 0/0.5);
+    border: 3px ridge #fff ;
+    
+}
+.reloj1{
+    width: 30px;
+    position:relative;
+   
+
+}
+.Ubicacion1{
+    width: 30px;
+    position:relative;
+
+}
+.estrellas{
+
+    width: 150px;
+    position:relative;
+
+}
+.barra{
+   
+    position:relative;
+    top: 350px;
+}
+.boton{
+    position:relative;
+    top: 300px;
+    
+
+}
